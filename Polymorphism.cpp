@@ -1,6 +1,20 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Polymorphism
+// Poly - Many and Morphism - Forms
+/*
+                            Polymorphism
+                              /      \  
+                             /        \
+                            /          \
+                     Compile Time      Runtime
+                     /       \                \
+                    /         \                \
+                   /           \                \ 
+                  /             \                \  
+     Function Overloading  Operator Overloading  Virtual Functions
+*/
 // Function Overloading
 class Fun{
     public:
